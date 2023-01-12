@@ -41,7 +41,7 @@ while not IS_TURNED_OFF:
 
                 profit_and_resource_handler(profit, ingredient)
 
-                print(f"Here ${total - charge} in change.")
+                print(f"Here ${round(total - charge, 2)} in change.")
                 print(f"Here is your {drink} {imoji[drink]}. Enjoy!")
         # TODO: If resources not enough - It should not continue to mak ethe drink but print: “Sorry there is not enough water.”
         else:
