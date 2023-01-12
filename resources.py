@@ -1,7 +1,7 @@
-resources = {
-    "water": 300,
-    "milk": 200,
-    "coffee": 100,
+INGREDIENT = {
+    "water": 3000,
+    "milk": 2000,
+    "coffee": 1000,
 }
 
 MENU = {
@@ -28,4 +28,10 @@ MENU = {
         },
         "cost": 3.0,
     }
+}
+
+IMOJI = {
+    "espresso": "☕",
+    "latte": "☕",
+    "cappuccino": "☕"
 }
