@@ -23,4 +23,4 @@
 
 # TODO: The prompt should show again to serve the next customer
 
-# TODO: Turn off the Coffee Machine by entering “off”
+# TODO: Turn off the Coffee Machine by entering “off”.
