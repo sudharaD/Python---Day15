@@ -58,6 +58,7 @@ while not IS_TURNED_OFF:
         # TODO: 1.2. When the user chooses a drink, the program should check if there are enough resources to make that drink.
         PROFIT = resource_checker(answer, INGREDIENT, MENU, IMOJI, PROFIT)
 
+
     # TODO: Process coins function - (Create dictionary for hold the coin values)
     # TODO: 3. Profit and Balance Handle
     # TODO: Cost of the drink gets added to the machine as the profit
